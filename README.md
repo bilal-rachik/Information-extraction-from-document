@@ -21,7 +21,7 @@ Research paper and code on information extraction from image/pdf
  * CUTIE : [Papers](https://arxiv.org/pdf/1903.12363v4.pdf)  [Code](https://github.com/vsymbol/CUTIE)
  * Document_IE: [Code](https://github.com/lulia0228/Document_IE)
  * TRIE: [Papers](https://arxiv.org/pdf/2005.13118v2.pdf)
- * Graph Convolution on Structured Document: [Papers](https://nanonets.com/blog/information-extraction-graph-convolutional-networks/)  [Code] (https://github.com/dhavalpotdar/Graph-Convolution-on-Structured-Documents)
+ * Graph Convolution on Structured Document: [Papers](https://nanonets.com/blog/information-extraction-graph-convolutional-networks/)  [Code](https://github.com/dhavalpotdar/Graph-Convolution-on-Structured-Documents)
  * [Graph Matric](https://colab.research.google.com/drive/1CjicFAgc1PtSYBmQKt3OccsOHyf0a5MU#scrollTo=C_Lkp4sqeg8T)
  * [Feature Extraction from Graph](https://colab.research.google.com/drive/1ZkS9YkFgWMR39e9yf5BxcyqPQR4T_hZ1#scrollTo=C_Lkp4sqeg8T)
  * [Extract data from Invoice](https://medium.com/@vigneshgig/how-to-extract-the-structure-of-invoice-data-using-tensorflow-api-faster-crnn-object-detection-8aa15c12bb46)
