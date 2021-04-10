@@ -32,7 +32,7 @@ Research paper and code on information extraction from image/pdf
  * [Extract data from Invoice](https://medium.com/@vigneshgig/how-to-extract-the-structure-of-invoice-data-using-tensorflow-api-faster-crnn-object-detection-8aa15c12bb46)
   
  ### DETECT TABLE in Image/PDF
- * [CascadeTabNet](https://github.com/DevashishPrasad/CascadeTabNet)
+ * CascadeTabNet [Paper](https://arxiv.org/ftp/arxiv/papers/2004/2004.12629.pdf) [Code](https://github.com/DevashishPrasad/CascadeTabNet)
  * [Tabulo ](https://github.com/interviewBubble/Tabulo)
  * [PubLayNet](https://github.com/phamquiluan/PubLayNet)
  * [CascadeTabNet: An approach for end to end table detection and structure
