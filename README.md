@@ -31,17 +31,16 @@ Research paper and code on information extraction from image/pdf
  * [Feature Extraction from Graph](https://colab.research.google.com/drive/1ZkS9YkFgWMR39e9yf5BxcyqPQR4T_hZ1#scrollTo=C_Lkp4sqeg8T)
  * [Extract data from Invoice](https://medium.com/@vigneshgig/how-to-extract-the-structure-of-invoice-data-using-tensorflow-api-faster-crnn-object-detection-8aa15c12bb46)
   
- ### DETECT TABLE in Image/PDF
+ ### DETECT TABLE
  * CascadeTabNet [Paper](https://arxiv.org/ftp/arxiv/papers/2004/2004.12629.pdf) [Code](https://github.com/DevashishPrasad/CascadeTabNet)
  * [Tabulo ](https://github.com/interviewBubble/Tabulo)
- * [PubLayNet](https://github.com/phamquiluan/PubLayNet)
- * [CascadeTabNet: An approach for end to end table detection and structure
-recognition from image-based documents](https://arxiv.org/ftp/arxiv/papers/2004/2004.12629.pdf)
-* [TableNet: Deep Learning model for end-to-end Table detection and Tabular data extraction from Scanned Document Images](https://arxiv.org/pdf/2001.01469.pdf)
+ * CDeC-Net [Paper](https://arxiv.org/pdf/2008.10831v1.pdf)  [Code](https://github.com/mdv3101/CDeCNet)
+* TableNet: [Paper](https://arxiv.org/pdf/2001.01469.pdf)  [Code](https://github.com/tomassosorio/OCR_tablenet) [Code](https://github.com/jainammm/TableNet)
+* [Camelot](https://github.com/atlanhq/camelot)
 * [RetinaNet](https://medium.com/@djajafer/pdf-table-extraction-with-keras-retinanet-173a13371e89)
 
 
-### DETECT Layout in docuent/Image:
+### DETECT Layout in docuent/Image
 
 * [layout parsing](https://github.com/Layout-Parser/layout-parser)
 * [PubLayNet](https://github.com/phamquiluan/PubLayNet)
