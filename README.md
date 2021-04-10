@@ -11,7 +11,11 @@ Research paper and code on information extraction from image/pdf
  * [PubLay](https://github.com/ibm-aur-nlp/PubLayNet)
  
 ### Information extraction:
- * LayoutLM  [Papers](https://arxiv.org/pdf/1912.13318.pdf) [Code](https://github.com/microsoft/unilm/tree/master/layoutlm)
+ * LayoutLM:  [Papers](https://arxiv.org/pdf/1912.13318.pdf) [Code](https://github.com/microsoft/unilm/tree/master/layoutlm)
+ * LayoutLMV2:  [Papers](https://arxiv.org/pdf/2012.14740v1.pdf) [Code](https://github.com/microsoft/unilm/tree/master/layoutlmv2)
+ * PICK: [Papers](https://arxiv.org/pdf/2004.07464v3.pdf) [Code](https://github.com/wenwenyu/PICK-pytorch)
+ * GraphIE: [Papers](https://arxiv.org/abs/1810.13083) [Code](https://github.com/thomas0809/GraphIE)
+ * Document_IE: [Code](https://github.com/lulia0228/Document_IE)
  * [Graph Convolution on Structured Documents](https://github.com/dhavalpotdar/Graph-Convolution-on-Structured-Documents)
  * [Graph Matric](https://colab.research.google.com/drive/1CjicFAgc1PtSYBmQKt3OccsOHyf0a5MU#scrollTo=C_Lkp4sqeg8T)
  * [Feature Extraction from Graph](https://colab.research.google.com/drive/1ZkS9YkFgWMR39e9yf5BxcyqPQR4T_hZ1#scrollTo=C_Lkp4sqeg8T)
