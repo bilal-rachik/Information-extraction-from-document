@@ -38,10 +38,16 @@ Research paper and code on information extraction from image/pdf
 * TableNet: [Paper](https://arxiv.org/pdf/2001.01469.pdf)  [Code](https://github.com/tomassosorio/OCR_tablenet) [Code](https://github.com/jainammm/TableNet)
 * [Camelot](https://github.com/atlanhq/camelot)
 * [RetinaNet](https://medium.com/@djajafer/pdf-table-extraction-with-keras-retinanet-173a13371e89)
+* [image-table-ocr](https://github.com/eihli/image-table-ocr#orgb3d60f1)
 
 
 ### DETECT Layout in docuent/Image
 
 * [layout parsing](https://github.com/Layout-Parser/layout-parser)
 * [PubLayNet](https://github.com/phamquiluan/PubLayNet)
+* [docstrum](https://github.com/chulwoopack/docstrum)
+* [ITSegmenter](https://github.com/JFBarryLi/ITSegmenter)
+* [dhSegment](https://github.com/dhlab-epfl/dhSegment)
+* [document-layout-analysis](https://github.com/rbaguila/document-layout-analysis)
+* [P2PaLA](https://github.com/lquirosd/P2PaLA)
 
