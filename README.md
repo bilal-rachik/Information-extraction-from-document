@@ -16,6 +16,7 @@ Research paper and code on information extraction from image/pdf
  * [PubLay](https://github.com/ibm-aur-nlp/PubLayNet)
  
 ### Information extraction:
+* LAMBERT:  [Papers](https://arxiv.org/pdf/2002.08087.pdf)  [Code](https://github.com/applicaai/lambert)
  * LayoutLM:  [Papers](https://arxiv.org/pdf/1912.13318.pdf)  [Code](https://github.com/microsoft/unilm/tree/master/layoutlm)
  * LayoutLMV2:  [Papers](https://arxiv.org/pdf/2012.14740v1.pdf)  [Code](https://github.com/microsoft/unilm/tree/master/layoutlmv2)
  * PICK: [Papers](https://arxiv.org/pdf/2004.07464v3.pdf)  [Code](https://github.com/wenwenyu/PICK-pytorch)
