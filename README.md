@@ -16,6 +16,7 @@ Research paper and code on information extraction from image/pdf
  * [PubLay](https://github.com/ibm-aur-nlp/PubLayNet)
  
 ### Information extraction:
+ * layoutreader : [Code](https://github.com/microsoft/unilm/tree/master/layoutreader)
  * VILA: [Code](https://github.com/allenai/VILA)
  * LAMBERT:  [Papers](https://arxiv.org/pdf/2002.08087.pdf)  [Code](https://github.com/applicaai/lambert)
  * LayoutLM:  [Papers](https://arxiv.org/pdf/1912.13318.pdf)  [Code](https://github.com/microsoft/unilm/tree/master/layoutlm)
