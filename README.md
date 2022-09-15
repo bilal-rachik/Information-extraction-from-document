@@ -17,6 +17,9 @@ Research paper and code on information extraction from image/pdf
  * [FinTabNet](https://developer.ibm.com/exchanges/data/all/fintabnet/)
  
 ### Information extraction:
+ * [donut](https://github.com/clovaai/donut)
+ * [layoutlmv3](https://github.com/microsoft/unilm/tree/master/layoutlmv3)
+ * [Character-Aware Neural Language Model](https://github.com/BlackStar1313/ICDAR-2019-RRC-SROIE/tree/master/keyword_information_extraction)
  * layoutreader : [Code](https://github.com/microsoft/unilm/tree/master/layoutreader)
  * VILA: [Code](https://github.com/allenai/VILA)
  * LAMBERT:  [Papers](https://arxiv.org/pdf/2002.08087.pdf)  [Code](https://github.com/applicaai/lambert)
