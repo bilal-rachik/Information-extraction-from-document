@@ -14,6 +14,7 @@ Research paper and code on information extraction from image/pdf
  * [HTR Dataset ICFHR 2016](https://zenodo.org/record/1297399#.X0zmA9P7TUI)
  * [Tobacco3482](https://lampsrv02.umiacs.umd.edu/projdb/project.php?id=72)
  * [PubLay](https://github.com/ibm-aur-nlp/PubLayNet)
+ * [FinTabNet](https://developer.ibm.com/exchanges/data/all/fintabnet/)
  
 ### Information extraction:
  * layoutreader : [Code](https://github.com/microsoft/unilm/tree/master/layoutreader)
@@ -28,13 +29,14 @@ Research paper and code on information extraction from image/pdf
  * Chargrid: [Papers](https://arxiv.org/pdf/1809.08799v1.pdf)  [Code](https://github.com/sciencefictionlab/chargrid-pytorch) [Code](https://github.com/thanhhau097/chargrid2d)
  * CUTIE : [Papers](https://arxiv.org/pdf/1903.12363v4.pdf)  [Code](https://github.com/vsymbol/CUTIE)
  * Document_IE: [Code](https://github.com/lulia0228/Document_IE)
- * TRIE: [Papers](https://arxiv.org/pdf/2005.13118v2.pdf)
+ * TRIE: [Papers](https://arxiv.org/pdf/2005.13118v2.pdf)[Code](https://github.com/hikopensource/davar-lab-ocr)
  * Graph Convolution on Structured Document: [Papers](https://nanonets.com/blog/information-extraction-graph-convolutional-networks/)  [Code](https://github.com/dhavalpotdar/Graph-Convolution-on-Structured-Documents)
  * [Graph Matric](https://colab.research.google.com/drive/1CjicFAgc1PtSYBmQKt3OccsOHyf0a5MU#scrollTo=C_Lkp4sqeg8T)
  * [Feature Extraction from Graph](https://colab.research.google.com/drive/1ZkS9YkFgWMR39e9yf5BxcyqPQR4T_hZ1#scrollTo=C_Lkp4sqeg8T)
  * [Extract data from Invoice](https://medium.com/@vigneshgig/how-to-extract-the-structure-of-invoice-data-using-tensorflow-api-faster-crnn-object-detection-8aa15c12bb46)
   
  ### DETECT TABLE
+ * PubTables-1M [Paper](https://arxiv.org/pdf/2110.00061v3.pdf) [Code](https://github.com/microsoft/table-transformer)
  * CascadeTabNet [Paper](https://arxiv.org/ftp/arxiv/papers/2004/2004.12629.pdf) [Code](https://github.com/DevashishPrasad/CascadeTabNet)
  * [Tabulo ](https://github.com/interviewBubble/Tabulo)
  * CDeC-Net [Paper](https://arxiv.org/pdf/2008.10831v1.pdf)  [Code](https://github.com/mdv3101/CDeCNet)
@@ -53,4 +55,9 @@ Research paper and code on information extraction from image/pdf
 * [dhSegment](https://github.com/dhlab-epfl/dhSegment)
 * [document-layout-analysis](https://github.com/rbaguila/document-layout-analysis)
 * [P2PaLA](https://github.com/lquirosd/P2PaLA)
+
+
+### Lib
+* [docquery](https://github.com/impira/docquery)
+* [doctr](https://github.com/mindee/doctr)
 
